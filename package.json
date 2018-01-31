@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/calamus0427/calamus-video/issues"
   },
-  "homepage": "https://github.com/calamus0427/calamus-video#readme"
+  "homepage": "https://github.com/calamus0427/calamus-video#readme",
+  "devDependencies": {
+    "video.js": "^6.6.3"
+  }
 }
